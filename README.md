@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-### Языки программирования и технологии
+### 💻 Языки и технологии
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "python" width = 45 height = 45/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title = "sql" width = 45 height = 45/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" title = "numpy" width = 45 height = 45/>&nbsp;
