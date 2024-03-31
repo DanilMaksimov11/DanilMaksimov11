@@ -1,5 +1,5 @@
 <div id = "header", align = "center">
-    <h2> Максимов Данил </h2>
+    <h3> Максимов Данил </h3>
 </div>    
 
 <div id = "socials", align = "center">
