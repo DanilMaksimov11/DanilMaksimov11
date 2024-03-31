@@ -10,7 +10,7 @@
 
 📄 Резюме: *ссылка на CV*
 
-📫 Контакты: [Telegram](https://t.me/maksimovdanil), [Почта](dan05maks@yandex.ru)
+📫 Контакты: [Telegram](https://t.me/maksimovdanil), почта: dan05maks@yandex.ru
 
 ### 💻 Языки и технологии
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "python" width = 45 height = 45/>&nbsp;
