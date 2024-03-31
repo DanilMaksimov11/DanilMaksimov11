@@ -2,8 +2,14 @@
     <h2> Максимов Данил </h2>
 </div>    
 
+<a href = https://t.me/maksimovdanil>
+    <img src = "https://img.shields.io/badge/Telegram-blue?/style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram">
+</a>
+
+    
 ### 🙋🏻‍♂️ Обо мне 
 📚 Учусь на 2 курсе образовательной программы "Прикладная математика и информатика" факультета компьютерных наук Высшей школы экономики
+
 📊 Интересуюсь математикой, анализом данных, машинным обучением
 
 📫 Контакты: ...
