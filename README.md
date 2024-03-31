@@ -1,22 +1,15 @@
 <div id = "header", align = "center">
-    <h2> Максимов Данил </h2>
+    <h3> Максимов Данил </h3>
 </div>    
-
-<div id = "socials", align = "center">
-    <a href = https://t.me/maksimovdanil>
-        <img src = "https://img.shields.io/badge/Telegram-blue?/style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram" width = 90 height = 25>
-    </a>
-    <a href = dan05maks@yandex.ru>
-        <img src = "https://img.shields.io/badge/Email-red?/style=for-the-badge&logo=email&logoColor=white" alt = "Email" width = 80 height = 30>
-    </a>
-</div>
     
 ### 🙋🏻‍♂️ Обо мне 
 📚 Учусь на 2 курсе образовательной программы "Прикладная математика и информатика" факультета компьютерных наук Высшей школы экономики
 
 📊 Интересуюсь математикой, анализом данных, машинным обучением
 
-📫 Контакты: ...
+📄 Подробнее обо мне: *ссылка на CV*
+
+📫 Контакты: [Telegram](https://t.me/maksimovdanil), [Почта](dan05maks@yandex.ru)
 
 ### 💻 Языки и технологии
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "python" width = 45 height = 45/>&nbsp;
