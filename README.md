@@ -1,13 +1,13 @@
 <div id = "header", align = "center">
-    <h3> Максимов Данил </h3>
+    <h2> Максимов Данил </h2>
 </div>    
 
 <div id = "socials", align = "center">
     <a href = https://t.me/maksimovdanil>
-        <img src = "https://img.shields.io/badge/Telegram-blue?/style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram">
+        <img src = "https://img.shields.io/badge/Telegram-blue?/style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram" width = 80 height = 45>
     </a>
     <a href = dan05maks@yandex.ru>
-        <img src = "https://img.shields.io/badge/Email-red?/style=for-the-badge&logo=email&logoColor=white" alt = "Email">
+        <img src = "https://img.shields.io/badge/Email-red?/style=for-the-badge&logo=email&logoColor=white" alt = "Email" width = 80 height = 45>
     </a>
 </div>
     
